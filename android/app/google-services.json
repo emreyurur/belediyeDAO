@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "169488961197",
+    "project_id": "belediyedao",
+    "storage_bucket": "belediyedao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169488961197:android:a957dce50e003d48068024",
+        "android_client_info": {
+          "package_name": "com.belediyedao"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtPpb0q23QU1c1wiI_9F6Qe07Yiv_tYEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
