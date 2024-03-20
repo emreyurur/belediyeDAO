@@ -93,8 +93,8 @@ const OneriScreen: React.FC = () => {
         data={messages}
         keyExtractor={(item) => item.id}
         renderItem={renderItem}
-        contentContainerStyle={styles.listContainer} // FlatList içeriğine stil vermek için
-        ListHeaderComponent={<View style={styles.divider} />} // Listeyi başlıktan ayırmak için bir divider ekleyebilirsiniz
+        contentContainerStyle={styles.listContainer}
+        ListHeaderComponent={<View style={styles.divider} />} 
       />
       <View style={styles.inputContainer}>
       <TextInput
